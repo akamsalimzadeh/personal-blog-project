@@ -1,0 +1,32 @@
+.aboutPage {
+
+}
+.aboutPage h3 {
+    font-size: 17px;
+    margin-top: 60px;
+    margin-bottom: 25px;
+}
+.aboutPage p {
+    font-size: 14.5px;
+    text-align: justify;
+    line-height: 26px;
+}
+.mapField {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+}
+.mapField h4 {
+    color: #947c42;
+    margin-bottom: 40px;
+}
+.mapWrapper {
+    width: 600px;
+    height: 500px;
+}
+.mapWrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

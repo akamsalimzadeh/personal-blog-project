@@ -1,0 +1,23 @@
+.headerWrapper {
+    background-color: #ecebeb;
+    box-shadow: 0px 3px 5px 0px #b6b3b3;
+}
+
+.header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.header ul {
+    display: flex;
+    gap: 20px;
+}
+
+.header ul li {
+    cursor: pointer;
+}
+
+.header h3 {
+    padding-left: 40px;
+}
