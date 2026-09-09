@@ -73,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # personal-blog-project
 Hi, this is a personal project for React js
 >>>>>>> 32f28babb64ddc8a381c72762a8c5d7fb74b59d4
+
+#پروژه وبلاگ شخصی
