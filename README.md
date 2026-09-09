@@ -22,9 +22,14 @@ npm start
 
 هنگام ساخت مقاله جدید، در قسمت بارگذاری عکس می‌توانید از آدرس دو عکس زیر برای مقاله جدید استفاده کنید:
 ‍‍‍‍‍‍‍
-`‍‍‍‍‍/photos/greg.jpg`
+```text
+/photos/greg.jpg
+```
 
-`/photos/kobu.jpg`
+```text
+/photos/boku.jpg
+```
+
 
 
 
