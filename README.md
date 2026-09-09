@@ -27,7 +27,7 @@ npm start
 ```
 
 ```text
-/photos/boku.jpg
+/photos/kobu.jpg
 ```
 
 
